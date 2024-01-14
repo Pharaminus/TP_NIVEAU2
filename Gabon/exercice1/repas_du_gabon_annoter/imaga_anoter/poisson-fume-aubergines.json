@@ -1,0 +1,1 @@
+[{"image": "poisson-fume-aubergines.jpg", "verified": false, "annotations": [{"label": "plantain", "coordinates": {"x": 204.0, "y": 125.0, "width": 40.0, "height": 87.0}}, {"label": "poisson fume", "coordinates": {"x": 20.0, "y": 65.5, "width": 36.0, "height": 38.0}}, {"label": "aubergines", "coordinates": {"x": 113.0, "y": 127.0, "width": 42.0, "height": 65.0}}]}]

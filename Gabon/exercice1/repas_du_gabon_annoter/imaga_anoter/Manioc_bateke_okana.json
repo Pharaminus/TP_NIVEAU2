@@ -1,0 +1,36 @@
+[
+	{
+		"image": "Manioc_bateke_okana.jpg",
+ 		"verified": false, 
+ 		"annotations": [{"label": "igname", 
+ 						"coordinates": {	
+ 						"x": 127.25000000000006, 
+ 						"y": 157.82142857142858, 
+ 						"width": 243.0, "height": 192.0
+ 										}              
+ 						}, 
+ 						{"label": "chenilles", 
+ 						"coordinates": {
+ 						"x": 395.25000000000006, 
+ 						"y": 303.32142857142856, 
+ 						"width": 113.0, 
+ 						"height": 230.99999999999997
+ 										}
+ 						}, 
+ 						{"label": "okana", 
+ 							"coordinates": {"x": 171.75000000000006, 
+ 							"y": 455.32142857142856, 
+ 							"width": 230.0, 
+ 							"height": 219.0}
+ 						}, 
+ 						{"label": "bateke", 
+ 							"coordinates": {
+ 								"x": 200.75000000000006, 
+ 								"y": 294.32142857142856, 
+ 								"width": 96.0, 
+ 								"height": 51.0
+ 											}
+ 							}
+ 						]
+ 	}
+ ]
